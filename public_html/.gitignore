@@ -1,0 +1,6 @@
+*.iml
+.DS_Store
+config.php
+.htaccess
+media/audio/*
+media/image/*
